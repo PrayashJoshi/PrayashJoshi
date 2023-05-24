@@ -15,7 +15,6 @@ Aspiring Machine Learning engineer with experience building APIs, data pipeline,
 ---
 
 ### Languages and Tools
---
 
 ##### Data Science/ML
 
