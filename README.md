@@ -62,3 +62,5 @@ Aspiring Machine Learning engineer with experience building APIs, data pipeline,
 
 
 ### Certifications 
+
+- AWS Cloud Practitioner Certified
