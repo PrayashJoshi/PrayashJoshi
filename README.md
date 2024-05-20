@@ -1,2 +1,2 @@
 ## ~ Prayash Joshi ~
-**`Undergraduate CS Student - ML/Full-Stack`**
+**`Graduate CS Student - ML/Full-Stack`**
